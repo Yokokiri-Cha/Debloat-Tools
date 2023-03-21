@@ -1,0 +1,1 @@
+pm disable-user --user 0 com.nttdocomo.android.tapandpay

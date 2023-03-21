@@ -1,0 +1,97 @@
+
+pm disable-user --user 0 com.kddi.selfcare.external
+
+pm disable-user --user 0 com.kddi.android.email
+
+pm disable-user --user 0 com.kddi.android.emailprov
+
+pm disable-user --user 0 com.kddi.android.imp
+
+pm disable-user --user 0 com.kddi.ar.satch.satchviewer
+
+pm disable-user --user 0 com.kddi.android.cmail
+
+pm disable-user --user 0 com.kddi.auoneshopping
+
+pm disable-user --user 0 com.kddi.android.auoneidsetting
+
+pm disable-user --user 0 com.kddi.market
+
+pm disable-user --user 0 jp.auone.wallet
+
+pm disable-user --user 0 web.wm.auone.jp
+
+pm disable-user --user 0 com.kddi.android.au_wifi_connect2
+
+pm disable-user --user 0 com.kddi.android.aumanagementsystem
+
+pm disable-user --user 0 com.kddi.cs.app001
+
+pm disable-user --user 0 com.kddi.android.easysettingwizard
+
+pm disable-user --user 0 com.kddi.ux.station
+
+pm disable-user --user 0 com.kddi.android.ausharelink
+
+pm disable-user --user 0 com.kddi.android.auhomelauncher
+
+pm disable-user --user 0 com.kddi.android.klop
+
+pm disable-user --user 0 com.kddi.disasterapp
+
+pm disable-user --user 0 com.kddi.android.au_setting_menu
+
+pm disable-user --user 0 com.kddi.android.checker_android
+
+pm disable-user --user 0 com.kddi.android.smartpass
+
+pm disable-user --user 0 com.uievolution.gguide.android
+
+pm disable-user --user 0 com.kddi.android.packageinstaller
+
+pm disable-user --user 0 com.kddi.extcontroldevice
+
+pm disable-user --user 0 com.sonymobile.kddi.settings
+
+pm disable-user --user 0 com.sonymobile.kddiemoji.license
+
+pm disable-user --user 0 jp.netstar.familysmile
+
+pm disable-user --user 0 com.kddi.android.UtaPass
+
+pm disable-user --user 0 com.kddi.android.AddressbookPlus
+
+pm disable-user --user 0 com.kddi.android.btdun
+
+pm disable-user --user 0 com.kddi.pass.launcher
+
+pm disable-user --user 0 com.kddi.android.evc
+
+pm disable-user --user 0 jp.sony.spot.sp
+
+pm disable-user --user 0 com.kddi.selfcare.client
+
+pm disable-user --user 0 jp.co.disney.apps.base.disneymarketapp
+
+pm disable-user --user 0 com.kddi.datacharge
+
+pm disable-user --user 0 com.kddi.android.mamoru
+
+pm disable-user --user 0 com.kddi.android.newspass
+
+pm disable-user --user 0 com.google.android.talk
+
+pm disable-user --user 0 com.kddi.android.lismobookstore
+
+pm disable-user --user 0 com.kddi.android.auworldservice
+
+pm disable-user --user 0 com.kddi.android.repairreceipt
+
+pm disable-user --user 0 com.kddi.android.antijaywalk
+
+pm disable-user --user 0 com.google.android.apps.work.oobconfig
+
+pm disable-user --user 0 jp.co.optim.oru
+
+echo Debloat Complete!アプリの無効化が完了しました。ご利用ありがとうございました!
+pause;

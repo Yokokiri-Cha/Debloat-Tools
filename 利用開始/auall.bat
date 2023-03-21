@@ -1,0 +1,1 @@
+adb shell < kdc.txt

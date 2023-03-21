@@ -1,0 +1,109 @@
+
+pm enable --user 0 jp.co.nttdocomo.bridgelauncher
+
+pm enable --user 0 com.nttdocomo.android.initialization
+
+pm enable --user 0 com.nttdocomo.android.accountwipe
+pm enable --user 0 com.nttdocomo.android.pf.dcmippushaggregator
+pm enable --user 0 com.nttdocomo.android.pf.dcmwappush
+
+pm enable --user 0 com.nttdocomo.android.felicaremotelock
+
+pm enable --user 0 com.nttdocomo.android.ictrw
+
+pm enable --user 0 com.nttdocomo.android.screenlockservice
+
+
+pm enable --user 0 com.nttdocomo.android.osv.res.overlay_305
+
+pm enable --user 0 com.sonyericsson.android.servicemenu.product.res.overlay.docomo
+
+pm enable --user 0 com.nttdocomo.android.applicationmanager
+pm enable --user 0 com.nttdocomo.android.accountauthenticator
+pm enable --user 0 com.nttdocomo.android.dhome
+pm enable --user 0 com.nttdocomo.android.idmanager
+pm enable --user 0 com.nttdocomo.android.store
+pm enable --user 0 com.nttdocomo.android.dmenu2
+pm enable --user 0 com.nttdocomo.android.iconcier
+pm enable --user 0 com.nttdocomo.android.iconcier_contents
+pm enable --user 0 com.nttdocomo.android.rwpushcontroller
+pm enable --user 0 com.nttdocomo.android.remotelock
+pm enable --user 0 com.nttdocomo.osaifu.tsmproxy
+pm enable --user 0 com.nttdocomo.android.bugreport
+pm enable --user 0 com.nttdocomo.android.atf
+
+
+
+
+
+
+pm enable --user 0 jp.co.omronsoft.android.decoemojimanager_docomo
+
+pm enable --user 0 com.nttdocomo.android.cloudset
+pm enable --user 0 com.nttdocomo.android.docomoset
+pm enable --user 0 com.nttdocomo.android.sdcardbackup
+pm enable --user 0 jp.co.nttdocomo.carriermail
+pm enable --user 0 jp.co.nttdocomo.lcsapp
+pm enable --user 0 jp.co.nttdocomo.lcsappsub
+pm enable --user 0 com.nttdocomo.android.voiceeditor
+
+pm enable --user 0 com.nttdocomo.android.dcmvoicerecognition
+
+pm enable --user 0 com.nttdocomo.android.mediaplayer
+
+
+pm enable --user 0 jp.co.nttdocomo.saigaiban
+
+pm enable --user 0 com.nttdocomo.android.wipe
+
+pm enable --user 0 com.nttdocomo.android.socialphonebook
+pm enable --user 0 jp.co.nttdocomo.lcsapp
+pm enable --user 0 com.nttdocomo.android.wipe
+pm enable --user 0 com.nttdocomo.android.photocollection
+pm enable --user 0 com.nttdocomo.android.anmane2
+pm enable --user 0 com.nttdocomo.android.databackup
+pm enable --user 0 com.nttdocomo.android.networkservice
+pm enable --user 0 com.nttdocomo.android.felicaremotelock
+pm enable --user 0 com.nttdocomo.android.homezozo
+pm enable --user 0 com.nttdocomo.android.dmenu2
+pm enable --user 0 com.nttdocomo.android.dpoint
+pm enable --user 0 com.nttdocomo.android.schedulememo
+pm enable --user 0 com.nttdocomo.android.pf.dcmwappush
+pm enable --user 0 com.nttdocomo.android.mydocomo
+pm enable --user 0 com.nttdocomo.android.mascot
+pm enable --user 0 jp.co.omronsoft.android.decoemojimanager_docomo
+pm enable --user 0 jp.co.nttdocomo.anshinmode
+pm enable --user 0 com.nttdocomo.android.applicationmanagersub
+pm enable --user 0 com.nttdocomo.keitai.payment
+pm enable --user 0 com.nttdocomo.android.docomoset
+pm enable --user 0 com.nttdocomo.android.applicationmanager
+pm enable --user 0 com.nttdocomo.android.apnsw
+pm enable --user 0 com.nttdocomo.android.store
+pm enable --user 0 com.nttdocomo.android.msg
+pm enable --user 0 com.nttdocomo.osaifu.tsmproxy
+pm enable --user 0 com.nttdocomo.android.voicetranslation
+pm enable --user 0 com.nttdocomo.android.pf.dcmippushaggregator
+pm enable --user 0 com.nttdocomo.android.cloudset
+pm enable --user 0 com.nttdocomo.android.anshinsecurity
+pm enable --user 0 jp.co.nttdocomo.bridgelauncher
+pm enable --user 0 com.nttdocomo.android.myahamo
+pm enable --user 0 jp.co.nttdocomo.lcsappsub
+pm enable --user 0 com.nttdocomo.android.idmanager
+pm enable --user 0 com.nttdocomo.android.voiceeditor
+pm enable --user 0 com.nttdocomo.android.offhostcontrol
+pm enable --user 0 com.nttdocomo.android.mymagazine
+pm enable --user 0 com.nttdocomo.android.epsmodecontrol
+pm enable --user 0 com.nttdocomo.android.sdcardbackup
+pm enable --user 0 com.nttdocomo.android.accountwipe
+pm enable --user 0 com.nttdocomo.android.cloudstorageservice
+pm enable --user 0 jp.co.nttdocomo.saigaiban
+pm enable --user 0 com.nttdocomo.android.epshome
+pm enable --user 0 com.nttdocomo.android.devicehelp
+pm enable --user 0 com.nttdocomo.android.initialization
+pm enable --user 0 jp.co.nttdocomo.carriermail
+pm enable --user 0 com.nttdocomo.android.remotelock
+pm enable --user 0 com.nttdocomo.dcard
+pm enable --user 0 com.nttdocomo.android.phonemotion
+pm enable --user 0 com.nttdocomo.android.osv
+pm enable --user 0 com.nttdocomo.android.tapandpay
+pm enable --user 0 com.nttdocomo.android.areamail

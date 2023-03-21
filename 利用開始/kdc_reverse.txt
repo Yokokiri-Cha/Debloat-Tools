@@ -1,0 +1,97 @@
+
+pm enable --user 0 com.kddi.selfcare.external
+
+pm enable --user 0 com.kddi.android.email
+
+pm enable --user 0 com.kddi.android.emailprov
+
+pm enable --user 0 com.kddi.android.imp
+
+pm enable --user 0 com.kddi.ar.satch.satchviewer
+
+pm enable --user 0 com.kddi.android.cmail
+
+pm enable --user 0 com.kddi.auoneshopping
+
+pm enable --user 0 com.kddi.android.auoneidsetting
+
+pm enable --user 0 com.kddi.market
+
+pm enable --user 0 jp.auone.wallet
+
+pm enable --user 0 web.wm.auone.jp
+
+pm enable --user 0 com.kddi.android.au_wifi_connect2
+
+pm enable --user 0 com.kddi.android.aumanagementsystem
+
+pm enable --user 0 com.kddi.cs.app001
+
+pm enable --user 0 com.kddi.android.easysettingwizard
+
+pm enable --user 0 com.kddi.ux.station
+
+pm enable --user 0 com.kddi.android.ausharelink
+
+pm enable --user 0 com.kddi.android.auhomelauncher
+
+pm enable --user 0 com.kddi.android.klop
+
+pm enable --user 0 com.kddi.disasterapp
+
+pm enable --user 0 com.kddi.android.au_setting_menu
+
+pm enable --user 0 com.kddi.android.checker_android
+
+pm enable --user 0 com.kddi.android.smartpass
+
+pm enable --user 0 com.uievolution.gguide.android
+
+pm enable --user 0 com.kddi.android.packageinstaller
+
+pm enable --user 0 com.kddi.extcontroldevice
+
+pm enable --user 0 com.sonymobile.kddi.settings
+
+pm enable --user 0 com.sonymobile.kddiemoji.license
+
+pm enable --user 0 jp.netstar.familysmile
+
+pm enable --user 0 com.kddi.android.UtaPass
+
+pm enable --user 0 com.kddi.android.AddressbookPlus
+
+pm enable --user 0 com.kddi.android.btdun
+
+pm enable --user 0 com.kddi.pass.launcher
+
+pm enable --user 0 com.kddi.android.evc
+
+pm enable --user 0 jp.sony.spot.sp
+
+pm enable --user 0 com.kddi.selfcare.client
+
+pm enable --user 0 jp.co.disney.apps.base.disneymarketapp
+
+pm enable --user 0 com.kddi.datacharge
+
+pm enable --user 0 com.kddi.android.mamoru
+
+pm enable --user 0 com.kddi.android.newspass
+
+pm enable --user 0 com.google.android.talk
+
+pm enable --user 0 com.kddi.android.lismobookstore
+
+pm enable --user 0 com.kddi.android.auworldservice
+
+pm enable --user 0 com.kddi.android.repairreceipt
+
+pm enable --user 0 com.kddi.android.antijaywalk
+
+pm enable --user 0 com.google.android.apps.work.oobconfig
+
+pm enable --user 0 jp.co.optim.oru
+
+echo Debloat Complete!アプリの無効化が完了しました。ご利用ありがとうございました!
+pause;

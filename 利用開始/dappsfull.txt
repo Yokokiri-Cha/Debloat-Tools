@@ -1,0 +1,59 @@
+
+pm disable-user --user 0 jp.co.nttdocomo.bridgelauncher
+
+pm disable-user --user 0 com.nttdocomo.android.initialization
+
+pm disable-user --user 0 com.nttdocomo.android.accountwipe
+pm disable-user --user 0 com.nttdocomo.android.pf.dcmippushaggregator
+pm disable-user --user 0 com.nttdocomo.android.pf.dcmwappush
+
+pm disable-user --user 0 com.nttdocomo.android.felicaremotelock
+
+pm disable-user --user 0 com.nttdocomo.android.ictrw
+
+pm disable-user --user 0 com.nttdocomo.android.screenlockservice
+
+
+pm disable-user --user 0 com.nttdocomo.android.osv.res.overlay_305
+
+pm disable-user --user 0 com.sonyericsson.android.servicemenu.product.res.overlay.docomo
+
+pm disable-user --user 0 com.nttdocomo.android.applicationmanager
+pm disable-user --user 0 com.nttdocomo.android.accountauthenticator
+pm disable-user --user 0 com.nttdocomo.android.dhome
+pm disable-user --user 0 com.nttdocomo.android.idmanager
+pm disable-user --user 0 com.nttdocomo.android.store
+pm disable-user --user 0 com.nttdocomo.android.dmenu2
+pm disable-user --user 0 com.nttdocomo.android.iconcier
+pm disable-user --user 0 com.nttdocomo.android.iconcier_contents
+pm disable-user --user 0 com.nttdocomo.android.rwpushcontroller
+pm disable-user --user 0 com.nttdocomo.android.remotelock
+pm disable-user --user 0 com.nttdocomo.osaifu.tsmproxy
+pm disable-user --user 0 com.nttdocomo.android.bugreport
+pm disable-user --user 0 com.nttdocomo.android.atf
+
+
+
+
+
+
+pm disable-user --user 0 jp.co.omronsoft.android.decoemojimanager_docomo
+
+pm disable-user --user 0 com.nttdocomo.android.cloudset
+pm disable-user --user 0 com.nttdocomo.android.docomoset
+pm disable-user --user 0 com.nttdocomo.android.sdcardbackup
+pm disable-user --user 0 jp.co.nttdocomo.carriermail
+pm disable-user --user 0 jp.co.nttdocomo.lcsapp
+pm disable-user --user 0 jp.co.nttdocomo.lcsappsub
+pm disable-user --user 0 com.nttdocomo.android.voiceeditor
+
+pm disable-user --user 0 com.nttdocomo.android.dcmvoicerecognition
+
+pm disable-user --user 0 com.nttdocomo.android.mediaplayer
+
+
+pm disable-user --user 0 jp.co.nttdocomo.saigaiban
+
+pm disable-user --user 0 com.nttdocomo.android.wipe
+
+pm disable-user --user 0 com.nttdocomo.android.socialphonebook

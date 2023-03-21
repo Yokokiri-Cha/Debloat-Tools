@@ -1,0 +1,1 @@
+adb shell < kdc_reverse.txt
