@@ -93,5 +93,13 @@ pm disable-user --user 0 com.google.android.apps.work.oobconfig
 
 pm disable-user --user 0 jp.co.optim.oru
 
+
+pm disable-user --user 0 com.kddi.android.auinitialsetting
+
+
+pm disable-user --user 0 com.kddi.android.auemail
+
+pm disable-user --user 0 com.tobila.tobilaphone.mobile.android.au
+
 echo Debloat Complete!アプリの無効化が完了しました。ご利用ありがとうございました!
 pause;

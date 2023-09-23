@@ -1,0 +1,2 @@
+2023/09/23
+AU版 AQUOS sense(SHV40,Android9.0)を参考にAUのパッケージを3つ追加しました!

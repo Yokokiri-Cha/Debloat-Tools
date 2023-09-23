@@ -93,5 +93,12 @@ pm enable --user 0 com.google.android.apps.work.oobconfig
 
 pm enable --user 0 jp.co.optim.oru
 
-echo Debloat Complete!アプリの無効化が完了しました。ご利用ありがとうございました!
+pm enable --user 0 com.kddi.android.auinitialsetting
+
+
+pm enable --user 0 com.kddi.android.auemail
+
+pm enable --user 0 com.tobila.tobilaphone.mobile.android.au
+
+echo Debloat Complete!アプリの有効化が完了しました。ご利用ありがとうございました!
 pause;
